@@ -1,0 +1,38 @@
+[
+    {
+        "ticket_id": 1,
+        "issue_type": "Network Failure",
+        "severity": "Critical",
+        "description": "Router failure detected in data center.",
+        "solution": "Replace the router.",
+        "priority": "High",
+        "timestamp": "2024-12-18T15:00:00"
+    },
+    {
+        "ticket_id": 2,
+        "issue_type": "Latency",
+        "severity": "Medium",
+        "description": "High latency detected between servers.",
+        "solution": "Check server connections.",
+        "priority": "Medium",
+        "timestamp": "2024-12-19T10:00:00"
+    },
+    {
+        "ticket_id": "b56dcf97-3135-4adc-a448-e0a8cdda21d2",
+        "issue_type": "Network Failure",
+        "severity": "Critical",
+        "description": "Router failure detected in data center.",
+        "solution": "Replace the router.",
+        "priority": "High",
+        "timestamp": "2024-12-19T11:53:15"
+    },
+    {
+        "ticket_id": "bbb11e2e-89a1-4fe2-a795-75bee8c99d18",
+        "issue_type": "Network Failure",
+        "severity": "Critical",
+        "description": "Router failure detected in data center.",
+        "solution": "Replace the router.",
+        "priority": "High",
+        "timestamp": "2024-12-19T12:03:36"
+    }
+]

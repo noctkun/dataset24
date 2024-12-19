@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn
+pandas
+matplotlib
+plotly
+scikit-learn
+dropzone
+requests
